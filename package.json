@@ -1,0 +1,20 @@
+{
+  "name": "async-landingpage",
+  "version": "1.0.0",
+  "description": "Una landing Page que consume recursos de una API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Maeno323/async-landingPage.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Maeno323/async-landingPage/issues"
+  },
+  "homepage": "https://github.com/Maeno323/async-landingPage#readme"
+}
