@@ -4,7 +4,7 @@
   "description": "Una landing Page que consume recursos de una API",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "deploy": "gh-pages -d src"
   },
   "repository": {
     "type": "git",
@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/Maeno323/async-landingPage/issues"
   },
-  "homepage": "https://github.com/Maeno323/async-landingPage#readme"
+  "homepage": "https://github.com/Maeno323/async-landingPage#readme",
+  "devDependencies": {
+    "gh-pages": "^4.0.0"
+  }
 }
